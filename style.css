@@ -14,7 +14,6 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    /* padding: 0 10px; */
 }
 ul {
     display: flex;
@@ -129,7 +128,6 @@ ul {
     margin-top: 10px;
     padding: 5px 25px;
     border-radius: 6px;
-    /* border-style: none; */
     border: 2px solid #F9FAF8;
 }
 .call-text {
